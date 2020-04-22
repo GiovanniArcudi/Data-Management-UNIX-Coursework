@@ -7,3 +7,4 @@ The coursework is divided into two parts:
 2.  Report writing using LaTex.
 
 Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-UNIX-Coursework/blob/master/UNIX%20Coursework%20Specifications.pdf) PDF.
+
