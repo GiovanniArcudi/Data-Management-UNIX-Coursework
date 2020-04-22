@@ -5,5 +5,5 @@ The coursework is divided into two parts:
 
 1.  UNIX scripting for basic ﬁle processing and data analysis. 
 2.  Report writing using LaTex.
-
+<br />
 Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-UNIX-Coursework/blob/master/UNIX%20Coursework%20Specifications.pdf) PDF.
