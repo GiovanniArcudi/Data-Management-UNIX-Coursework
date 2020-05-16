@@ -1,5 +1,5 @@
 # University of Southampton - Data Management UNIX Coursework
-This coursework covers two key topics of the first-year Data Management module at the University of Southampton: _[UNIX](https://en.wikipedia.org/wiki/Unix)_ and _[LaTex](https://en.wikipedia.org/wiki/LaTeX)_. 
+This coursework covers two key topics of the first-year [COMP1204 - Data Management](https://www.southampton.ac.uk/courses/modules/comp1204.page) module at the University of Southampton: _[UNIX](https://en.wikipedia.org/wiki/Unix)_ and _[LaTex](https://en.wikipedia.org/wiki/LaTeX)_. 
 
 The coursework is divided into two parts: 
 
